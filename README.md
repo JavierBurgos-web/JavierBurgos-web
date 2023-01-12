@@ -9,7 +9,7 @@
 
 - 💬 Puedes preguntarme sobre **Python|Data Science/Analitics**
 
-- 📫Puedes escribirme a **ing.burgoschaguezac@gmail.com**
+- 📫Puedes contactarme a **ing.burgoschaguezac@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
