@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Javier </h1>
+<h1 align="center">Hola 👋 Me llamo Javier Elohim </h1>
 <h3 align="center">Apasionado por el mundo de la tecnología</h3>
 
 - 🔭 Estudio en **Universidad de Antioquia**
