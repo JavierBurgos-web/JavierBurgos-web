@@ -7,7 +7,7 @@
 
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
-- 📫Puedes contactarme a **ing.burgoschaguezac@gmail.com**
+- 📧Puedes contactarme a **ing.burgoschaguezac@gmail.com**
 
 <h3 align="left">Tutoriales:</h3>
 <p align="left">
