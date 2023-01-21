@@ -3,8 +3,8 @@
 
 - 👨🏻‍💻 Estudio **Ingeniería Industrial**
 
-- 🕋![image](https://user-images.githubusercontent.com/84932679/213890161-8973487c-8deb-4e6b-a3f9-f801d6fdad00.png)
- En **Universidad de Antioquia**
+![image](https://user-images.githubusercontent.com/84932679/213890161-8973487c-8deb-4e6b-a3f9-f801d6fdad00.png)
+
 
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
