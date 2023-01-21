@@ -1,13 +1,11 @@
 <h1 align="center">Hola 👋 Soy Javier Elohim </h1>
 <h3 align="center">Apasionado por el mundo de la tecnología</h3>
 
-- 🔭 Estudio en **Universidad de Antioquia**
+- 🏢 Estudio en **Universidad de Antioquia**
 
-- 🌱 Estudiante de **Ingeniería Industrial**
+- 👨🏻‍💻 Estudiante de **Ingeniería Industrial**
 
-- 👨‍💻 Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
-
-- 💬 Puedes preguntarme sobre **Python|Data Science/Analitics**
+- 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
 - 📫Puedes contactarme a **ing.burgoschaguezac@gmail.com**
 
