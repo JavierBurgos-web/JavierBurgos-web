@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Javier Elohim </h1>
 <h3 align="center">Apasionado por el mundo de la tecnología</h3>
 
-- 🏢🏬🕋 Estudio en **Universidad de Antioquia**
+- 🕋 Estudio en **Universidad de Antioquia**
 
 - 👨🏻‍💻 Estudiante de **Ingeniería Industrial**
 
