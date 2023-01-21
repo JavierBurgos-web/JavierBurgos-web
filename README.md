@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Estudio **Ingeniería Industrial**
 
-- 🕋 **Universidad de Antioquia**
+- 🕋 En **Universidad de Antioquia**
 
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
