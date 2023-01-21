@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋 Me llamo Javier Elohim </h1>
 <h3 align="center">Apasionado por el mundo de la tecnología</h3>
 
-- 🕋 Estudio en **Universidad de Antioquia**
+- 👨🏻‍💻 Estudio **Ingeniería Industrial**
 
-- 👨🏻‍💻 Programa **Ingeniería Industrial**
+- 🕋 **Universidad de Antioquia**
 
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
