@@ -2,7 +2,7 @@
 <h3 align="center">Apasionado por el mundo de la la programación</h3>
 
 - 👨🏻‍💻 Estudio **Ingeniería Industrial**
-![image](https://user-images.githubusercontent.com/84932679/213890161-8973487c-8deb-4e6b-a3f9-f801d6fdad00.png)
+
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
 - 📧Puedes contactarme a **ing.burgoschaguezac@gmail.com**
@@ -17,4 +17,5 @@
 
 
 <h3 align="left">Alma mater:</h3>
-
+- 👨🏻‍💻 Estudio **Ingeniería Industrial**
+![image](https://user-images.githubusercontent.com/84932679/213890161-8973487c-8deb-4e6b-a3f9-f801d6fdad00.png)
