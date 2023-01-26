@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Soy Javier Elohim </h1>
-<h3 align="center">Apasionado por el mundo de la la programación</h3>
+<h3 align="center">Apasionado por el mundo de la tecnología</h3>
 
 - 👨🏻‍💻 Estudio **Ingeniería Industrial**
 
