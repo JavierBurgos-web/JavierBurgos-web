@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 Soy Javier Elohim </h1>
 <h3 align="center">Apasionado por el mundo de la programación</h3>
 
-- 👨🏻‍💻 Estudio **Ingeniería Industrial**
+- 👨🏻‍💻 Estudiante de **Ingeniería Industrial**
 
 - 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
 
