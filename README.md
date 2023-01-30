@@ -3,7 +3,7 @@
 
 - 👨🏻‍💻 Estudiante de **Ingeniería Industrial**
 
-- 🗃️ Todos mis proyectos están en [https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)
+- 🗃️ Todos mis proyectos están en **[https://github.com/JavierBurgos-web](https://github.com/JavierBurgos-web)**
 
 - 📧Puedes contactarme a **ing.burgoschaguezac@gmail.com**
 
