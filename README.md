@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋 Me llamo Javier Elohim </h1>
-<h3 align="center">Me aprender sobre el mundo de la programación</h3>
+<h3 align="center">Me gusta aprender sobre el mundo de la programación</h3>
 
 - 👨🏻‍💻 Estudiante de **Ingeniería Industrial**
 
