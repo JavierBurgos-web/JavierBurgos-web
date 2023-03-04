@@ -7,7 +7,7 @@
 
 <h3 align="left">Tutoriales</h3>
 <p align="left">
-<a href="https://www.youtube.com/@ingjburgos888/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ingjburgos888/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ingjburgos/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ingjburgos888/featured" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Herramientas que uso</h3>
