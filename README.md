@@ -5,7 +5,7 @@
 
 - 📧 Puedes contactarme a **ing.burgoschaguezac@gmail.com**
 
-<h3 align="left">Tutoriales:</h3>
+<h3 align="left">Tutoriales</h3>
 <p align="left">
 <a href="https://www.youtube.com/@ingjburgos888/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ingjburgos888/featured" height="30" width="40" /></a>
 </p>
