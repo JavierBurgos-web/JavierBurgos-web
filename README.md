@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Me llamo Javier E </h1>
+<h1 align="center">Hola 👋 Me llamo Javier </h1>
 <h3 align="center">Me gusta aprender sobre el mundo de la programación</h3>
 
 - 👨🏻‍💻 Estudio **Ingeniería Industrial**
