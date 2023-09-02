@@ -1,9 +1,5 @@
-<h1 align="center">Hola 👋 Me llamo Javier </h1>
-<h3 align="center">Me gusta aprender sobre el mundo de la programación</h3>
-
-- 👨🏻‍💻 Estudio **Ingeniería Industrial**
-
-- 📧 Puedes contactarme a **ing.burgoschaguezac@gmail.com**
+<h1 align="center">Analista de datos en formación con experiencia en ingeniería industrial e ingeniería de datos.</h1>
+<h1></h1>
 
 <h3 align="left">Tutoriales</h3>
 <p align="left">
