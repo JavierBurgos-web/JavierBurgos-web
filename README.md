@@ -1,4 +1,4 @@
-<h1 align="center">Analista de datos en formación con experiencia en ingeniería industrial e ingeniería de datos</h1>
+<h1 align="center">Data analyst trainee with experience in industrial engineering and data engineering.</h1>
 </br>
 
 <!--<h3 align="left">Tutoriales</h3>-->
