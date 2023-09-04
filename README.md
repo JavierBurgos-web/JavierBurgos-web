@@ -1,5 +1,4 @@
-<h1 align="center">Analista de datos en formación </h1>
-<h2 align="center">con experiencia en ingeniería industrial e ingeniería de datos</h2>
+<h1 align="center">Analista de datos en formación con experiencia en ingeniería industrial e ingeniería de datos</h1>
 <h1></h1>
 
 <!--<h3 align="left">Tutoriales</h3>-->
